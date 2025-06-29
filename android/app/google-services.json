@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "698899438063",
+    "project_id": "meet-90c50",
+    "storage_bucket": "meet-90c50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698899438063:android:3bbbd91723c00fd591fe1a",
+        "android_client_info": {
+          "package_name": "com.example.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698899438063-s44dopstbrmbqc38ch87kpptc27d1rk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjSgQnjLitZls4DLG67E0gUeM8Q5WzI7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698899438063-s44dopstbrmbqc38ch87kpptc27d1rk2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698899438063-quku4b6pfa10pib4v1bf3i6ggovphmi0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

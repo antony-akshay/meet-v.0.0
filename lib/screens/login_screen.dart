@@ -30,6 +30,7 @@ class _LoginScreenState extends State<LoginScreen> {
             CustomButton(text: 'G',onPressed: ()async{
               bool res = await _authMethods.signInWithGoogle(context);
               if(res){
+                // ignore: use_build_context_synchronously
                 Navigator.pushNamed(context, '/home');
               }
             },)
